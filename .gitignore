@@ -1,0 +1,4 @@
+# OS X
+.DS_Store
+# Esto que no creo que haga falta
+.cordova
